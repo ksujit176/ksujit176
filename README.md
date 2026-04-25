@@ -1,16 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Sujit+Kumar;Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+FinTech+at+Scale+🚀" alt="Typing SVG" />
+# 👋 Hi, I'm Sujit Kumar
+
+### Full Stack Engineer · Java · Spring Boot · React.js
+### 🚀 Building FinTech Systems at Scale
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksujit176/)
-[![Gmail](https://img.shields.io/badge/Gmail-ksujit176%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksujit176@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ksujit176-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksujit176)
+<a href="https://www.linkedin.com/in/ksujit176/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ksujit176@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/ksujit176">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=ksujit176&label=Profile+Views&color=00d9ff&style=flat" alt="Profile views" />
+<br/><br/>
 
-*Building enterprise FinTech systems that handle real money at scale* 🚀
+> *Building enterprise FinTech systems that handle real money at scale* 🚀
 
 </div>
 
