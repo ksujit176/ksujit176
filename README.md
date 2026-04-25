@@ -14,6 +14,10 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ksujit176&color=0A66C2&style=flat-square&label=Profile+Views)
+
+<br/>
+
 > *Building enterprise FinTech systems that handle real money at scale* 🚀
 
 </div>
