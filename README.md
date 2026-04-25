@@ -14,10 +14,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ksujit176&color=0A66C2&style=flat-square&label=Profile+Views)
-
-<br/>
-
 > *Building enterprise FinTech systems that handle real money at scale* 🚀
 
 </div>
@@ -225,5 +221,9 @@ public class SujitKumar {
 **Open to Full Stack & Backend Engineering Opportunities**
 
 *Last Updated: April 2026*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ksujit176&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
