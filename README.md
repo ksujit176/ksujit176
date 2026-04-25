@@ -7,17 +7,16 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ksujit176/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ksujit176@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/ksujit176">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksujit176/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksujit176@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksujit176)
+[![Azure](https://img.shields.io/badge/Azure%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/sujitkumar-5300/credentials/67c34ca5b5200f8c)
 
-<br/><br/>
+<br/>
+
+![Visits](https://visitcount.itsvg.in/api?id=ksujit176&label=Profile%20Views&color=0&icon=0&pretty=true)
+
+<br/>
 
 > *Building enterprise FinTech systems that handle real money at scale* 🚀
 
