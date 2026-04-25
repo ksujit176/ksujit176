@@ -1,10 +1,14 @@
-# 👋 Sujit Kumar | Full Stack Engineer
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksujit176/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksujit176@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksujit176)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Sujit+Kumar;Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+FinTech+at+Scale+🚀" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksujit176/)
+[![Gmail](https://img.shields.io/badge/Gmail-ksujit176%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksujit176@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ksujit176-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksujit176)
+
+<img src="https://komarev.com/ghpvc/?username=ksujit176&label=Profile+Views&color=00d9ff&style=flat" alt="Profile views" />
 
 *Building enterprise FinTech systems that handle real money at scale* 🚀
 
@@ -179,17 +183,6 @@ Full-stack inventory management system with cart-based purchasing and advanced f
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksujit176&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksujit176&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
