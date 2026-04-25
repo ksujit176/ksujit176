@@ -28,11 +28,11 @@ Full Stack Engineer with **2+ years** of experience building enterprise-grade sy
 public class SujitKumar {
 
     String   role       = "Full Stack Engineer @ Capgemini";
-    String   client     = "Standard Chartered Bank · FinTech";
+    String   client     = "Standard Chartered Bank | FinTech";
     String[] stack      = {"Java", "Spring Boot", "React.js", "Microservices"};
-    String   location   = "Bengaluru, India 🇮🇳";
+    String   location   = "Bengaluru, India";
     String   cert       = "Microsoft Certified: Azure Fundamentals AZ-900";
-    String   exploring  = "Distributed Systems · Generative AI · Agentic AI";
+    String   exploring  = "Distributed Systems | Generative AI | Agentic AI";
     boolean  openToWork = true;
 
 }
