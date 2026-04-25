@@ -1,6 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00D9FF&height=180&section=header&text=Hi%20I'm%20Sujit%20Kumar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React.js&descAlignY=60&descSize=18)
+# 👋 Hi, I'm Sujit Kumar
 
 <div align="center">
+
+### Full Stack Engineer · Java · Spring Boot · React.js
+### 🚀 Building FinTech Systems at Scale
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksujit176/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksujit176@gmail.com)
@@ -211,8 +216,10 @@ public class SujitKumar {
 |:--------:|:----------:|:--------:|
 | [ksujit176@gmail.com](mailto:ksujit176@gmail.com) | [linkedin.com/in/ksujit176](https://linkedin.com/in/ksujit176) | [github.com/ksujit176](https://github.com/ksujit176) |
 
+<br/>
+
+**Open to Full Stack & Backend Engineering Opportunities**
+
+*Last Updated: April 2026*
+
 </div>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0A192F&height=120&section=footer)
